@@ -1,3 +1,3 @@
 # Programacion2_Practica1
-# Aproximacion de Pi mediante Montecarlo
-# Daniel Gomez Obraztsov
+Aproximacion de Pi mediante Montecarlo
+Daniel Gomez Obraztsov
